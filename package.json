@@ -1,0 +1,10 @@
+{
+  "name": "vue-typescript-plugin-issue",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "scripts": {},
+  "keywords": ["MWE"],
+  "author": "Segev Finer <segev208@gmail.com>",
+  "license": "Unlicense"
+}
